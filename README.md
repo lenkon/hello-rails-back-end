@@ -32,7 +32,7 @@ is an API webservice built as backend using Ruby on Rails. This app exposes an A
 
 | Repository | Pull request |
 |------------|------------|
-|[Repo link >>](git@github.com:lenkon/hello-react-front-end.git)|[Pull request Here >>](git@github.com:lenkon/hello-react-front-end/pull/1)|
+|[Repo link >>](https://github.com/lenkon/hello-react-front-end)|[Pull request Here >>](https://github.com/lenkon/hello-react-front-end/pull/1)|
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
